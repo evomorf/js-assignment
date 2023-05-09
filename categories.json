@@ -5,8 +5,8 @@
       "name": "drinks",
       "created_at": "2021-07-24T12:08:13.000000Z",
       "updated_at": "2021-07-24T12:08:18.000000Z",
-      "primary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconPrimary.svg",
-      "secondary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconSecondary.svg",
+      "primary_icon": "./parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconPrimary.svg",
+      "secondary_icon": "./parent_category_pic/a72e98a3-ec49-11eb-954f-04d9f5ae5893/drinksIconSecondary.svg",
       "type": "0",
       "categories": [
         {
@@ -90,8 +90,8 @@
       "name": "food",
       "created_at": "2021-07-24T12:08:23.000000Z",
       "updated_at": "2021-07-24T12:08:26.000000Z",
-      "primary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconPrimary.svg",
-      "secondary_icon": "http://192.168.1.9:8000/storage/parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconSecondary.svg",
+      "primary_icon": "./parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconPrimary.svg",
+      "secondary_icon": "./parent_category_pic/a72ec9f3-ec49-11eb-954f-04d9f5ae5893/foodIconSecondary.svg",
       "type": "0",
       "categories": [
         {
